@@ -1,0 +1,7 @@
+DOCNUM = XWEBDEMO
+DATETIME = 19970423182524
+BLDVERS = 1.3.0
+TITLE = IBM BookManager BookServer Demonstration Book
+AUTHOR = http://booksrv2.raleigh.ibm.com
+COPYR = ©IBM Corporation 1995, 1997
+FQBOOK = /home/friedkiwi/documents/bookmgr/www-data/bookmgr/xwebdemo.boo
